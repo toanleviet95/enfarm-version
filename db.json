@@ -1,5 +1,6 @@
 {
   "profile": {
-    "version": "3.0.13"
+    "version": "3.0.13",
+    "isActivated": 0
   }
 }
